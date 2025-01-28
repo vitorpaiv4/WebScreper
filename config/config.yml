@@ -1,0 +1,8 @@
+urls:
+  - https://exemplo.com/produtos
+  - https://exemplo.com/blog
+
+selectors:
+  titulo: 'h1.titulo'
+  preco: 'div.preco'
+  links: 'a.link-produto'
